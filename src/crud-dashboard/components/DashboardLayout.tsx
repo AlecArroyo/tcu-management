@@ -59,8 +59,7 @@ export default function DashboardLayout() {
       }}
     >
       <DashboardHeader
-        logo={<SitemarkIcon />}
-        title=""
+        title="Tcu-782"
         menuOpen={isNavigationExpanded}
         onToggleMenu={handleToggleHeaderMenu}
       />
